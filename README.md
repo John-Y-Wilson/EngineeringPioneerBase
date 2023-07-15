@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# Welcome to our group
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# 工程拓荒者学社(贡橙拓荒者基地)
+## 我们是建立于2023年3月的社团组织
+## 出于就业,升学的目的,我们会聚在这里
+## 欢迎各位学习爱好者积极加入我们的活动
